@@ -34,7 +34,7 @@
           {
             "name": "[variables('VPN01Subnet2Name')]",
             "properties": {
-              "addressPrefix": "[variables('VPN01Subnet2Prefix')]"
+              "addressPrefix": "[variables('VPN01Subnet2Prefix')]"//updte
             }
           }
         ]
